@@ -1,6 +1,8 @@
-# browser
+#browser #noads #nopops #nobloatwares
 
-A new Flutter project.
+A lightweight web browser built with Flutter, designed for speed and simplicity.
+It comes with no ads, no bloatware, and no intrusive popups for a distraction-free experience.
+All browsing data is stored securely on the device, ensuring privacy and control.
 
 ## Getting Started
 
