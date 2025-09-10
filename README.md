@@ -1,23 +1,36 @@
-#browser #noads #nopops #nobloatwares
+Mobile Browser — A Lightweight Flutter Web Browser
 
-A lightweight web browser built with Flutter, designed for speed and simplicity.
-It comes with no ads, no bloatware, and no intrusive popups for a distraction-free experience.
-All browsing data is stored securely on the device, ensuring privacy and control.
+A minimalist, privacy-focused web browser built with Flutter, designed for speed, simplicity, and a distraction-free experience.
 
+✅ No ads, no popups, no bloatware — just clean browsing.
 
-To running the project:
+🔒 Privacy first — all browsing data is stored locally on the device.
+
+⚡ Lightweight and fast — optimized for smooth performance with a clean UI.
+Getting Started
+Prerequisites
+
+Ensure you have the following installed:
+
+Flutter SDK
+
+A supported IDE (e.g., Android Studio, VS Code)
+
+Installation & Run
+
+Clone the repository and run the project:
 flutter pub get
 flutter run
 
-## Getting Started
+📚 Resources
 
-This project is a starting point for a Flutter application.
+If you are new to Flutter, the following resources will help you get started:
 
-A few resources to get you started if this is your first Flutter project:
+Codelab: Write Your First Flutter App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Cookbook: Useful Flutter Samples
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter Documentation
+ — tutorials, samples, and API reference.
+
+⚡ Clean Browser delivers a fast, secure, and clutter-free browsing experience — because less is more.
